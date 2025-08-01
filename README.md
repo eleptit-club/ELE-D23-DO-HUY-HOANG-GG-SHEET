@@ -1,5 +1,4 @@
 # ELE-D23-DO-HUY-HOANG-GG-SHEET
-  1. code
 
 #include <SPI.h>
 #include <MFRC522.h>
